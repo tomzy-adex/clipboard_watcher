@@ -1,2 +1,3 @@
-<manifest package="dev.leanflutter.plugins.clipboard_watcher">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- (Other content remains unchanged) -->
 </manifest>
