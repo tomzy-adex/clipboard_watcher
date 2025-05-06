@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.tomzy-adex.clipboard_watcher'
+    namespace 'com.tomzy_adex.clipboard_watcher'
     compileSdkVersion 33
 
     compileOptions {
